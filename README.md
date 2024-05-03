@@ -7,6 +7,8 @@ chatgptv1.js: This file contains the main logic for the ChatGPT bot, including m
 
 bart.js: This file contains a function that uses the Cloudflare API to summarize the conversation history when an error occurs, in order to resume the conversation.
 
+twochatbotsconv.js: This file is simple use of the API , which creates two instances of the ChatGPT class, initiates a conversation between them, and saves the conversation history to a file.
+
 .env: This file contains the API token for the Cloudflare API, which is used in the bart.js file.
 
 Dependencies :
