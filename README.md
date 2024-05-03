@@ -41,6 +41,11 @@ console.log(reply);
 await chatgpt.closeBrowser();
 If an error occurs during the conversation, the handleError method will attempt to save the conversation history and resume the conversation using the summarized context.
 
+
+Before Running : 
+run Google chrom in the debug mode using 9220 , run : google-chrome-stable --remote-debugging-port=9222
+
+
 Customization :
 
 You can customize the behavior of the ChatGPT bot by passing options to the ChatGPT constructor:
