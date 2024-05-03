@@ -43,7 +43,8 @@ If an error occurs during the conversation, the handleError method will attempt 
 
 
 Before Running : 
-run Google chrom in the debug mode using 9220 , run : google-chrome-stable --remote-debugging-port=9222
+
+run Google chrom in the debug mode using 9220 port , run : google-chrome-stable --remote-debugging-port=9222
 
 
 Customization :
