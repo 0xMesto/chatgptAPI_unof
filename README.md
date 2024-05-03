@@ -40,4 +40,4 @@ chatbotUrl: The URL of the ChatGPT interface (default: 'https://chat.openai.com/
 headless: Whether to run the browser in headless mode (default: false).
 saveConversationCallback: A callback function that will be called with the conversation summary and the conversation file name when an error occurs.
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
