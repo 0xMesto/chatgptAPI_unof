@@ -1,3 +1,7 @@
+
+
+https://github.com/0xMesto/chatgptAPI_unof/assets/31520348/cd61c1b5-29b0-4572-a001-b4e223b45cdc
+
 ChatGPT unofficial API : 
 
 This project is a Node.js application that interacts with the ChatGPT conversational AI model using Puppeteer, a Node.js library for automating web browsers.
